@@ -77,6 +77,7 @@ If context is missing, ask only for missing checklist items.
 ### Tooling, deploy, and debugging
 
 - Tooling: `references/0.7/guides/tools/index.md`, `references/0.7/guides/tools/creating.md`, `references/0.7/guides/tools/configure.md`
+- Tailwind setup and workflow: `references/0.7/guides/utilities/tailwind.md`
 - Platform baseline: `references/0.7/guides/platforms/web.md`
 - Deploy: `references/0.7/guides/deploy/index.md`, `references/0.7/guides/deploy/config.md`, `references/0.7/tutorial/deploy.md`
 - Testing/debug/perf: `references/0.7/guides/testing/index.md`, `references/0.7/guides/testing/debugging.md`, `references/0.7/guides/tips/optimizing.md`, `references/0.7/guides/tips/antipatterns.md`
