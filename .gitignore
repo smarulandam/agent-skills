@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Python virtual environments and caches
+.venv/
+**/.venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# Editor metadata
+.idea/
+.vscode/
